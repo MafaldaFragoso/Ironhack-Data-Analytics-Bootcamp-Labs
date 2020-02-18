@@ -1,0 +1,37 @@
+# Variable naming
+- Class names should normally use the CapWords convention
+- Give meaningful names to the variables 
+
+# Function naming
+- Function names should be lowercase, with words separated by underscores as necessary to improve readability
+
+# Indentation
+- Use 4 spaces per indentation level
+- Spaces are the preferred indentation method
+
+# Line break
+- Break before binary operators
+- Continuation lines should align wrapped elements either vertically
+- The closing parenthesis on multiline constructs may either line up under the first non-whitespace character of the last line of list
+
+# Maximum Line Length
+- Limit all lines to a maximum of 79 characters
+
+# Imports
+- Imports are always put at the top of the file, just after any module comments and docstrings, and before module globals and constants.
+- Imports should usually be on separate lines
+- Should be grouped in following order:Standard library imports; Related third party imports; Local application/library specific imports.
+
+# Libraries
+- Standard library code should avoid complex package layouts and always use absolute imports
+
+# Whitespace
+- Do not use a space between print and the brackets
+- Do not use spaces around the = sign when used to indicate a keyword argument, or when used to indicate a default value for an unannotated function parameter
+
+# Blank lines
+- Surround top-level function and class definitions with two blank lines
+- Method definitions inside a class are surrounded by a single blank line
+
+# Others
+- It's better to use or than | as it will work more universally
