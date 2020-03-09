@@ -1,0 +1,23 @@
+## Challenges
+
+### Challenge 1: What is the difference between expected value and mean?
+
+Expected value: It is the average value of a random variable over a large number of experiments. In other words, it's the return one can expect for some kind of action.
+    Example: how many questions you might get right if you guess on a multiple choice test
+    For example, if you take a 20 question multiple-choice test with A,B,C,D as the answers, and you guess all “A”, then you can expect to 
+    get 25% right (5 out of 20). The math behind this kind of expected value is:
+        The probability (P) of getting a question right if you guess: .25
+        The number of questions on the test (n)*: 20
+        P x n = .25 x 20 = 5
+        
+        
+Mean value: The mean is the average of the numbers. It is easy to calculate: add up all the numbers, then divide by how many numbers there are.
+        
+
+### Challenge 2: What is the "problem" in science with p-values?
+
+Problem statement: when someone concludes that there is ‘no difference’ or ‘no association’ just because a P value is larger than a threshold such as 0.05 or, equivalently, because a confidence interval includes zero. It is also argued that we should not conclude that two studies conflict because one had a statistically significant result and the other did not. These errors waste research efforts and misinform policy decisions.
+
+An analysis of 791 articles across 5 journals found that arounf half mistakenly assume non-significance means no effect
+
+Discussion: researchers are calling for a stop to the use of P values in the conventional, dichotomous way — to decide whether a result refutes or supports a scientific hypothesis.
