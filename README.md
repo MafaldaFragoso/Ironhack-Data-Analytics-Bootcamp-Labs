@@ -1,7 +1,14 @@
 <img src="https://bit.ly/2VnXWr2" width="100">
 
-# Mafalda Fragoso
+# Ironhack Data Analytics Bootcamp
 
-Data Analytics Full Time Bootcamp, Amsterdam, 2020
+## Introduction
+This repository contains all the labs delivered during the bootcamp.
 
-Repository containing all the labs made during the Bootcamp
+**Curriculum**:
+
+Data Analysis using Python (Pandas, NumPy) & MySQL
+Data Visualization (Tableau, Plotly & Seaborn)
+Build, Evaluate & Deploy Machine Learning Models and Pipelines (Scikit-Learn)
+Inferential Statistics in Python & Business Intelligence
+Data Wrangling, Data Cleaning, API & Web Scraping
