@@ -5,7 +5,7 @@
 ## Introduction
 This repository contains all the labs delivered during the bootcamp.
 
-**Curriculum**:
+## Curriculum
 
 Data Analysis using Python (Pandas, NumPy) & MySQL
 Data Visualization (Tableau, Plotly & Seaborn)
